@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/eesomonu/Eunice_Work/2024/interactives/ai-doc-retriever/app/layout\":[\"static/media/6a44acd4f1e705fc-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

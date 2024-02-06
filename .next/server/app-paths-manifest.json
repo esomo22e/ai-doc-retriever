@@ -1,0 +1,6 @@
+{
+  "/api/chat/retrieval/route": "app/api/chat/retrieval/route.js",
+  "/api/retrieval/ingest-pdf/route": "app/api/retrieval/ingest-pdf/route.js",
+  "/page": "app/page.js",
+  "/api/documents/route": "app/api/documents/route.js"
+}

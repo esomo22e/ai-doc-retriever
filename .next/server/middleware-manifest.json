@@ -1,0 +1,45 @@
+{
+  "sortedMiddleware": [],
+  "middleware": {},
+  "functions": {
+    "/api/chat/retrieval/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/app/api/chat/retrieval/route.js"
+      ],
+      "name": "app/api/chat/retrieval/route",
+      "page": "/api/chat/retrieval/route",
+      "matchers": [
+        {
+          "regexp": "^/api/chat/retrieval$",
+          "originalSource": "/api/chat/retrieval"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    },
+    "/api/retrieval/ingest-pdf/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/app/api/retrieval/ingest-pdf/route.js"
+      ],
+      "name": "app/api/retrieval/ingest-pdf/route",
+      "page": "/api/retrieval/ingest-pdf/route",
+      "matchers": [
+        {
+          "regexp": "^/api/retrieval/ingest\\-pdf$",
+          "originalSource": "/api/retrieval/ingest-pdf"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    }
+  },
+  "version": 2
+}
